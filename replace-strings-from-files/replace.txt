@@ -1,0 +1,5 @@
+oringinal_string5 new_string1
+oringinal_string5 new_string2
+oringinal_string5 new_string3
+oringinal_string5 new_string4
+oringinal_string5 new_string5
