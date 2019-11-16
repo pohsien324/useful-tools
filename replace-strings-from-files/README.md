@@ -1,5 +1,5 @@
 # Replace Strings From Files
-These scripts provider a faster way to replace all the specific strings in your folder.
+This script provides a faster way to replace all the specific strings from your folder.
 
 ## Quick Start
 1. Clone the repository.

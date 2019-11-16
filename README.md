@@ -1,2 +1,2 @@
 # useful-tools
-Some useful scripts.
+Some useful tools.
